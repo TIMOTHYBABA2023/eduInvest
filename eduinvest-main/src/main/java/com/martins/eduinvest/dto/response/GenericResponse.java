@@ -20,7 +20,7 @@ public class GenericResponse {
     @JsonIgnore
     private HttpStatus httpStatus;
     private Object data;
-    private List<String> datat; // Added this field to hold error details if needed.
+//    private List<String> dataField;
 
     private Map <String, Object> metadata;
 

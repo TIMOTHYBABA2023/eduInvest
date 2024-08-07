@@ -1,5 +1,6 @@
 package com.martins.eduinvest.model;
 import com.martins.eduinvest.enums.AdminRole;
+import com.martins.eduinvest.model.baseentities.Person;
 import jakarta.persistence.*;
 import lombok.*;
 

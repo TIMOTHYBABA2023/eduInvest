@@ -18,6 +18,7 @@ public class Product {
     private Double thresholdQuantity;
     private Double amount;
     private boolean status;
+//    private boolean activeProduct;
 
     @ManyToOne
     @JoinColumn(name = "admin_id")

@@ -1,4 +1,4 @@
-package com.martins.eduinvest.model;
+package com.martins.eduinvest.model.baseentities;
 import jakarta.persistence.*;
 import lombok.*;
 
